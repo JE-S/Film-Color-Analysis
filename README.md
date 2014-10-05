@@ -1,4 +1,6 @@
 Film-Color-Analysis
 ===================
 
-Returns JPEG of frame color averages from a film given a path to an .mp4 file
+This program will produce a final image where each pixel represents the average color of a frame in the given film. Enter image path of a film, image path of final image, start frame number, end frame number, height of final image, and width of final image. 
+
+Utilizes Java with JCodec.
